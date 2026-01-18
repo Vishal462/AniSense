@@ -63,7 +63,7 @@ def format_title(title: str) -> str:
 # -----------------------------
 # Page setup
 # -----------------------------
-st.set_page_config(page_title="AniSense", layout="wide",page_icon="naruto.jpg")
+st.set_page_config(page_title="AniSense", layout="wide",page_icon="assets/naruto.jpg")
 st.markdown("""
 <div class="main-header">
     <h1 style='margin:0; color:white; font-size:2.5rem; font-weight:700;'>AniSense : An Anime and Manga Recommender</h1>

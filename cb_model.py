@@ -228,9 +228,9 @@ manual_aliases = {
 # -----------------------------
 # Load Model Components
 # -----------------------------
-ANIME_PKL = "anime_cb_data_merged.pkl"
-SIM_NPY = "fused_sim_refined(all-mpnet-base-v2).npy"
-TFIDF_JOB = "tfidf_vectorizer_merged.joblib"
+ANIME_PKL = "data/anime_cb_data_merged.pkl"
+SIM_NPY = "data/fused_sim_refined(all-mpnet-base-v2).npy"
+TFIDF_JOB = "data/tfidf_vectorizer_merged.joblib"
 
 
 def load_cb_model():
