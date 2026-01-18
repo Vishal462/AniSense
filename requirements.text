@@ -1,6 +1,6 @@
 streamlit
+joblib
 pandas
 numpy
 requests
-Joblib
 rapidfuzz
