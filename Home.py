@@ -104,7 +104,7 @@ for idx, p in enumerate(platforms):
 st.markdown("### YouTube Channels:")
 youtube_channels = [
     {"name": "Crunchyroll Collection", "url": "https://www.youtube.com/c/CrunchyrollCollection"},
-    {"name": "Anime on YouTube", "url": "https://www.youtube.com/playlist?list=PLCPF_EXD7_2gGG1caKop1TJZnV6nz0_0L"},
+    {"name": "TOHO Animation", "url": "https://www.youtube.com/@TOHOanimation"},
     {"name": "Muse Asia", "url": "https://www.youtube.com/c/MuseAsia"},
     {"name": "Ani-One", "url": "https://www.youtube.com/c/AniOneAsia"}
 ]
