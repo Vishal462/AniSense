@@ -51,7 +51,7 @@ pip install -r requirements.txt
 ```
 ### 3. Run locally
 ```bash
-streamlit run project.py
+streamlit run Home.py
 ```
 ## Documentation
 The implementation details and experimental results are based on the research report:
