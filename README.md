@@ -42,7 +42,7 @@ The core engine utilizes a **Multi-Modal Similarity Fusion** layer with the foll
 
 ### 1. Clone the repository
 ```bash
-git clone [https://github.com/yourusername/anisense.git](https://github.com/yourusername/anisense.git)
+git clone https://github.com/yourusername/anisense.git
 cd anisense
 ```
 ### 2. Install dependencies
