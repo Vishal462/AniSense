@@ -1,4 +1,4 @@
-# AniSense 🎌: Hybrid Anime & Manga Recommendation System
+# AniSense : Hybrid Anime & Manga Recommendation System
 
 AniSense is a high-performance, hybrid recommendation system designed to provide personalized discovery across the anime and manga domains. By leveraging real-time data and a multi-modal similarity fusion architecture, it delivers contextually aware suggestions that surpass traditional rule-based or static systems.
 
